@@ -1,3 +1,3 @@
 ```
-python bgpview_cli.py <query_term>
+python main.py <query_term>
 ```
